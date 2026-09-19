@@ -5,7 +5,7 @@ import jpegImage from '../project images/jpg vs jpeg.png';
 import orkaneImage from '../project images/Orkane.png';
 import plantWateringImage from '../project images/plant watering.png';
 import roboticsImage from '../project images/Robotics.png';
-import speechRecognitionImage from '../project images/speech recognition.png';
+import speechRecognitionImage from '../project images/Speech recognition.png';
 
 export type ProjectCategory =
   | 'AI / ML'
