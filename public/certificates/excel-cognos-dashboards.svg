@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="Data Visualization and Dashboards with Excel and Cognos placeholder certificate">
+  <rect width="900" height="560" rx="28" fill="#f7f4ff"/>
+  <rect x="46" y="46" width="808" height="468" rx="22" fill="#ffffff" stroke="#d9cbff" stroke-width="2"/>
+  <rect x="80" y="82" width="200" height="18" rx="9" fill="#6d48d8"/>
+  <text x="80" y="182" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#261b49">Data Visualization and Dashboards with Excel and Cognos</text>
+  <text x="80" y="220" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#5c4d76">IBM · Coursera</text>
+  <line x1="80" y1="250" x2="820" y2="250" stroke="#eadfff" stroke-width="2"/>
+  <rect x="90" y="300" width="240" height="150" rx="16" fill="#f2ebff" stroke="#d9c8ff"/>
+  <rect x="130" y="374" width="150" height="10" rx="5" fill="#7d5de8"/>
+  <rect x="130" y="334" width="90" height="10" rx="5" fill="#d9cbff"/>
+  <rect x="130" y="354" width="120" height="10" rx="5" fill="#d9cbff"/>
+  <rect x="390" y="306" width="200" height="18" rx="9" fill="#d9cbff"/>
+  <rect x="390" y="342" width="240" height="14" rx="7" fill="#efe7ff"/>
+  <rect x="390" y="370" width="210" height="14" rx="7" fill="#efe7ff"/>
+  <rect x="675" y="316" width="140" height="120" rx="18" fill="#f2ebff" stroke="#d7caef"/>
+  <text x="703" y="382" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#6f4fd6">Cognos</text>
+  <rect x="80" y="472" width="250" height="18" rx="9" fill="#d9cbff"/>
+  <rect x="352" y="472" width="177" height="18" rx="9" fill="#efe7ff"/>
+</svg>

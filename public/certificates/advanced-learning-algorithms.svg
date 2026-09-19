@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="Advanced Learning Algorithms placeholder certificate">
+  <rect width="900" height="560" rx="28" fill="#f8f5ff"/>
+  <rect x="46" y="46" width="808" height="468" rx="22" fill="#ffffff" stroke="#d7c7ff" stroke-width="2"/>
+  <rect x="80" y="82" width="170" height="18" rx="9" fill="#7959d9"/>
+  <text x="80" y="190" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#2d1d52">Advanced Learning Algorithms</text>
+  <text x="80" y="220" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#61557f">DeepLearning.AI</text>
+  <line x1="80" y1="250" x2="820" y2="250" stroke="#e8dcff" stroke-width="2"/>
+  <rect x="80" y="280" width="260" height="160" rx="16" fill="#f3edff" stroke="#d7c8ff"/>
+  <rect x="380" y="300" width="210" height="18" rx="9" fill="#d7c8ff"/>
+  <rect x="380" y="340" width="260" height="14" rx="7" fill="#efe7ff"/>
+  <rect x="380" y="370" width="220" height="14" rx="7" fill="#efe7ff"/>
+  <rect x="680" y="298" width="120" height="120" rx="16" fill="#f0ebff" stroke="#d9cef8"/>
+  <text x="700" y="365" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#6d54d3">AI</text>
+  <rect x="80" y="470" width="220" height="18" rx="9" fill="#d7c8ff"/>
+  <rect x="330" y="470" width="180" height="18" rx="9" fill="#efe7ff"/>
+</svg>

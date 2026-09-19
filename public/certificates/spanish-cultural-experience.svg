@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="Spanish Vocabulary Cultural Experience placeholder certificate">
+  <rect width="900" height="560" rx="28" fill="#f7f4ff"/>
+  <rect x="46" y="46" width="808" height="468" rx="22" fill="#ffffff" stroke="#d7c9ff" stroke-width="2"/>
+  <rect x="80" y="82" width="210" height="18" rx="9" fill="#765ad9"/>
+  <text x="80" y="182" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#2b1d47">Spanish Vocabulary: Cultural Experience</text>
+  <text x="80" y="220" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#564d75">University of California, Davis</text>
+  <line x1="80" y1="250" x2="820" y2="250" stroke="#eadfff" stroke-width="2"/>
+  <rect x="100" y="292" width="220" height="150" rx="16" fill="#f3ebff" stroke="#d9caff"/>
+  <circle cx="210" cy="350" r="46" fill="#e5d8ff"/>
+  <path d="M180 360c15-25 25-38 30-38 18 0 28 16 30 38M170 390h80" stroke="#7859d6" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <rect x="390" y="300" width="220" height="18" rx="9" fill="#d9cbff"/>
+  <rect x="390" y="338" width="255" height="14" rx="7" fill="#efe7ff"/>
+  <rect x="390" y="366" width="200" height="14" rx="7" fill="#efe7ff"/>
+  <rect x="680" y="310" width="120" height="118" rx="18" fill="#efe7ff" stroke="#d8caf5"/>
+  <text x="709" y="377" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#764ccf">ES</text>
+  <rect x="80" y="472" width="250" height="18" rx="9" fill="#d9cbff"/>
+  <rect x="350" y="472" width="180" height="18" rx="9" fill="#efe7ff"/>
+</svg>
