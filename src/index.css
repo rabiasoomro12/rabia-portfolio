@@ -1133,3 +1133,111 @@ textarea:focus-visible {
     opacity: 0;
   }
 }
+
+.cert-nav-button {
+  isolation: isolate;
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+}
+
+.cert-nav-button::after {
+  content: '';
+  position: absolute;
+  inset: 1px;
+  border-radius: inherit;
+  pointer-events: none;
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.55),
+    rgba(255, 255, 255, 0.08) 45%,
+    rgba(205, 187, 218, 0.12)
+  );
+  opacity: 0.55;
+  transition: opacity 0.5s ease;
+}
+
+.cert-nav-button:hover::after {
+  opacity: 1;
+}
+
+.research-nav-button {
+  position: relative;
+  isolation: isolate;
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+}
+
+.research-nav-button::after {
+  content: '';
+  position: absolute;
+  inset: 1px;
+  border-radius: inherit;
+  pointer-events: none;
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.6),
+    rgba(255, 255, 255, 0.08) 45%,
+    rgba(205, 187, 218, 0.14)
+  );
+  opacity: 0.55;
+  transition: opacity 0.5s ease;
+  z-index: 0;
+}
+
+.research-nav-button:hover::after {
+  opacity: 1;
+}
+.cert-nav-button {
+  isolation: isolate;
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+}
+
+.cert-nav-button::after {
+  content: '';
+  position: absolute;
+  inset: 1px;
+  border-radius: inherit;
+  pointer-events: none;
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.55),
+    rgba(255, 255, 255, 0.08) 45%,
+    rgba(205, 187, 218, 0.12)
+  );
+  opacity: 0.55;
+  transition: opacity 0.5s ease;
+}
+
+.cert-nav-button:hover::after {
+  opacity: 1;
+}
+
+
+.project-nav-button {
+  position: relative;
+  isolation: isolate;
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+}
+
+.project-nav-button::after {
+  content: '';
+  position: absolute;
+  inset: 1px;
+  border-radius: inherit;
+  pointer-events: none;
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.18),
+    rgba(255, 255, 255, 0.04) 45%,
+    rgba(205, 187, 218, 0.12)
+  );
+  opacity: 0.6;
+  transition: opacity 0.5s ease;
+  z-index: 0;
+}
+
+.project-nav-button:hover::after {
+  opacity: 1;
+}
