@@ -578,7 +578,7 @@ function Hero() {
               aria-hidden="true"
             />
 
-            <span>Open to work • Islamabad ↔ Remote</span>
+            <span>Open to work • On-site ↔ Hybrid ↔ Remote</span>
           </div>
         </Reveal>
 
